@@ -2,22 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
-<<<<<<< HEAD
 project.Rproj
-lab08aSimpleRpackage.Rcheck/
-lab08aSimpleRpackage*.tar.gz
-lab08aSimpleRpackage*.tgz
-=======
-lab08aSimpleRpackage.Rcheck/
-lab08aSimpleRpackage*.tar.gz
-lab08aSimpleRpackage*.tgz
-.project.Rproj
 .Rbuildignore
 .Rproj.user
-<<<<<<< HEAD
 DNARNAHandling.Rcheck/
 DNARNAHandling*.tar.gz
 DNARNAHandling*.tgz
-=======
->>>>>>> 888f863ff8007f03bc17edf3c373c564b930efdf
->>>>>>> de338746a0129098997e5c1efb64fcc286a5ba3c

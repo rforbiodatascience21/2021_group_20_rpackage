@@ -3,7 +3,7 @@ Type: Package
 Title: DNA and RNA Translation
 Version: 0.1.0
 Author: group 20
-Maintainer: group 20
+Maintainer: Paul Simon <paulsim33@gmail.com>
 Description: Create a random RNA or DNA sequence and then translate it
     to the corresponding amino acid sequence !
 License: GPL-3

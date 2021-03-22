@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+project.Rproj
+lab08aSimpleRpackage.Rcheck/
+lab08aSimpleRpackage*.tar.gz
+lab08aSimpleRpackage*.tgz

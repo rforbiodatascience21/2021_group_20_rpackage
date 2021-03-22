@@ -15,3 +15,7 @@ rna String of random RNA sequence
 \description{
 Get a random RNA sequence
 }
+\examples{
+random_rna(30)
+
+}

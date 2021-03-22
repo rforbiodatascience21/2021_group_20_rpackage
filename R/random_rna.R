@@ -4,7 +4,7 @@
 #' 
 #' @return rna String of random RNA sequence
 #' 
-#' @example 
+#' @examples
 #' random_rna(30)
 #' 
 #' @export

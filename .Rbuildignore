@@ -1,2 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^DNARNAHandling\.Rcheck$
+^DNARNAHandling.*\.tar\.gz$
+^DNARNAHandling.*\.tgz$

@@ -8,3 +8,6 @@ lab08aSimpleRpackage*.tgz
 .project.Rproj
 .Rbuildignore
 .Rproj.user
+DNARNAHandling.Rcheck/
+DNARNAHandling*.tar.gz
+DNARNAHandling*.tgz
